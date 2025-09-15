@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of the paper **"Depth map color constancy"**, published by Marc Ebner and Johannes Hansen in 2013.
 
-![](./Figure 2025-09-15 231828.png)
+![](./res.png)
 
 ## Usage
 
