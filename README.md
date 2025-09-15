@@ -17,6 +17,7 @@ Required Python libraries:
 
 This work is based on the following paper:
 
+```
 @article{ebner2013depth,
   title={Depth map color constancy},
   author={Ebner, Marc and Hansen, Johannes},
@@ -27,3 +28,4 @@ This work is based on the following paper:
   year={2013},
   publisher={De Gruyter}
 }
+```
