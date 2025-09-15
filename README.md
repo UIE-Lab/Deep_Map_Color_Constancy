@@ -2,12 +2,7 @@
 
 This repository contains a Python implementation of the paper **"Depth map color constancy"**, published by Marc Ebner and Johannes Hansen in 2013.
 
-## Example Result
-
-Below is an example of the algorithm's effect on a sample scene.
-
-![Example Result](Figure 2025-09-15 231828.png)
-*On the left is the original image, and on the right is the color-corrected result.*
+![](./im.png)
 
 ## Usage
 
